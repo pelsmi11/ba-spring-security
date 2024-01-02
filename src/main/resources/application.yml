@@ -12,4 +12,4 @@ spring:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
     properties:
       hibernate:
-        format_sql: truet
+        format_sql: true
